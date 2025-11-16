@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/Erectum/Documents/ESP_CODE/ili9488_display/build/CMakeFiles/bootloader
+/home/Erectum/Documents/ESP_CODE/ili9488_display/build/CMakeFiles/bootloader.rule
+/home/Erectum/Documents/ESP_CODE/ili9488_display/build/CMakeFiles/bootloader-complete.rule
+/home/Erectum/Documents/ESP_CODE/ili9488_display/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/Erectum/Documents/ESP_CODE/ili9488_display/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/Erectum/Documents/ESP_CODE/ili9488_display/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/Erectum/Documents/ESP_CODE/ili9488_display/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/Erectum/Documents/ESP_CODE/ili9488_display/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/Erectum/Documents/ESP_CODE/ili9488_display/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/Erectum/Documents/ESP_CODE/ili9488_display/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

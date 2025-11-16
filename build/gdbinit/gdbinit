@@ -1,0 +1,2 @@
+source /home/Erectum/Documents/ESP_CODE/ili9488_display/build/gdbinit/symbols
+source /home/Erectum/Documents/ESP_CODE/ili9488_display/build/gdbinit/connect
